@@ -7,7 +7,7 @@ import org.litepal.crud.DataSupport;
  * 邮箱：guzhongbao0317@163.com
  */
 
-public class Country extends DataSupport {
+public class County extends DataSupport {
     private int id;
     private String countryName;
     private String weatherId;
